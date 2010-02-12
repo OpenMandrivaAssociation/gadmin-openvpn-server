@@ -4,7 +4,7 @@
 
 Summary:	A GTK+ administation tool for OpenVPN (bridge)
 Name:		gadmin-openvpn-server
-Version:	0.1.1
+Version:	0.1.2
 Release:	%mkrel 1
 License:	GPLv3+
 Group:		System/Configuration/Networking
@@ -35,7 +35,7 @@ networks and or full-blown road warrior client capabilities.
 
 %install
 rm -rf %{buildroot}
-%makeinstall
+%makeinstall_std
 
 install -d %{buildroot}%{_sysconfdir}/%{name}
 
