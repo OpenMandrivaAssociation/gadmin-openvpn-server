@@ -5,7 +5,7 @@
 Summary:	A GTK+ administation tool for OpenVPN (bridge)
 Name:		gadmin-openvpn-server
 Version:	0.1.5
-Release:	3
+Release:	4
 License:	GPLv3+
 Group:		System/Configuration/Networking
 URL:		http://www.gadmintools.org/
