@@ -8,7 +8,7 @@ Version:	0.1.5
 Release:	4
 License:	GPLv3+
 Group:		System/Configuration/Networking
-URL:		http://www.gadmintools.org/
+URL:		https://www.gadmintools.org/
 Source0:	http://mange.dynalias.org/linux/gadmin-openvpn/server/%{name}-%{version}.tar.gz
 Source1:	%{name}.pam
 BuildRequires:	gtk+2-devel
